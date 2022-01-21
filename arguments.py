@@ -64,7 +64,6 @@ print('\n')
 print(args["factor1"])
 print('\n')
 
-
 print(args["response"])
 print('\n')
 
